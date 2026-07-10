@@ -2,7 +2,7 @@ const CONFIG = {
   tokenAddress: "0x29063f81b00c8970e6664d1fdf14c0e4a7286a31",
   twitter: "https://x.com/GOROHOOD_X",
   telegram: "https://t.me/GoroHood_Group",
-  dexscreener: "https://dexscreener.com/ethereum/0x29063f81b00c8970e6664d1fdf14c0e4a7286a31",
+  dexscreener: "https://dexscreener.com/robinhood/0x29063f81b00c8970e6664d1fdf14c0e4a7286a31",
   dextools: "https://www.dextools.io",
 };
 
